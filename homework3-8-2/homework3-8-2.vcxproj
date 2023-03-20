@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="homework3-8-2.cpp" />
+    <ClCompile Include="LimitException.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LimitExeption.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
